@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The justice of our cause in the present war, in respect of what is peculiar to the English, in matter of civil right.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1702</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46395</idno>
+            <idno type="STC">Wing J1249</idno>
+            <idno type="STC">Wing H2108</idno>
+            <idno type="STC">ESTC T78038</idno>
+            <idno type="EEBO-CITATION">99834486</idno>
+            <idno type="PROQUEST">99834486</idno>
+            <idno type="VID">38987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38987)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1780:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The justice of our cause in the present war, in respect of what is peculiar to the English, in matter of civil right.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London?,</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edward Stephens.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Title from drop-head title on p.1.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38987:1" rendition="simple:additions"/>
+            <head>THE <hi>Iuſtice of our Cauſe</hi> In the Preſent War, In reſpect of what is <hi>Peculiar</hi> to the <hi>Engliſh,</hi> in matter of <hi>CIVIL RIGHT.</hi>
+            </head>
+            <p>THE Author foreſeeing that our <hi>late Peace</hi> was not like to continue long, and conſidering the <hi>Great Advantage of a Good Cauſe</hi> in all Differences, out of great Concern for <hi>the Good of his Country,</hi> has for ſome years been indea<g ref="char:EOLhyphen"/>vouring, in the beſt manner he could, that ours might be made ſuch, both in reſpect of <hi>Religion,</hi> and of <hi>Civil Right,</hi> while the Peace continued.</p>
+            <p>As to <hi>Matters of Religion,</hi> he knew very well long ſince how In<g ref="char:EOLhyphen"/>defenſible a Cauſe we have, and was indeavouring that that might be regularly brought to the Conſideration and Cognizance of a Proper Ju<g ref="char:EOLhyphen"/>dicature, that is, of a National Synod, or a Convocation of the Clergy.</p>
+            <p>He obſerv'd <hi>two great Miſchiefs</hi> in it: One that by how much the worſe our Cauſe is, ſo much the better is that of our Adverſaries againſt us; whereas was ours but rectified, as it ought to be, it would make that of our Adverſaries utterly Indefenſable. and neceſſitate them to mend theirs too; and then that part of the Difference would ceaſe: and beſides we ſhould by the ſame means be freed from the other Miſ<g ref="char:EOLhyphen"/>chief too; which is ſo great, that it hath been the <hi>principal Occaſion of all the Confuſions and Scandals</hi> both of the <hi>former Civil War,</hi> and of the <hi>late Revolution.</hi> For wicked crafty deſigning Men of no Re<g ref="char:EOLhyphen"/>ligion, or any real Virtue, under pretence of concern for Religion,
+<pb facs="tcp:38987:2"/>abuſed the People with moſt <hi>wicked contrived Lies and Calumnies,</hi> till, running themſelves into a deſperate Caſe, they run all into thoſe <hi>Exceſſes,</hi> which have been the greateſt <hi>Shame and Diſhonour</hi> to this Nation, that the Subtile Spirits of ,<hi>Achitophel</hi> and <hi>Balaam,</hi> or the Devil himſelf could deviſe. But the Conſideration of theſe matters of <hi>Religion,</hi> belonging properly to the Clergy, and ſuch as are in Authority, what is written for that purpoſe is reſerved to be communica<g ref="char:EOLhyphen"/>ted to them, and but few others.</p>
+            <p>As to what is here publiſhed concerning Civil Right, the Author at the time of the Peace concluded, had not ſo much as any ſuſpicion of the <hi>Secret Practices,</hi> which have ſince been brought to his Knowledge by ſuch degrees and means, as ſeem to have been ordered by ſome <hi>Special Divine Providence,</hi> without any inquiry by him, except for his farther Satisfaction afterwards. But as he came to the Knowledge of them, he conſtantly gave notice from firſt to laſt, of what he obſer<g ref="char:EOLhyphen"/>ved or underſtood, to ſuch in Authority, as he thought moſt proper; and at laſt by <hi>A Petition and Demand of Right and Juſtice, as one of the Commons of <hi>England,</hi> on behalf of himſelf and the reſt,</hi> in a Letter to his Repreſentative in the laſt Houſe of Commons. And ſince there was ſo little regard to either by thoſe Gentlemen, he conceives it ſo great an Injury to all the Commons of <hi>England,</hi> their Principals, as obligeth him in Duty to the God of Truths and Righte<g ref="char:EOLhyphen"/>ouſneſs, to his Prince, and to his Country, to acquaint them a little farther with the Caſe; that they may conſider of farther Special In<g ref="char:EOLhyphen"/>ſtructions to their reſpective Repreſentatives.</p>
+            <p>It is what was at firſt intended only for Part of a <hi>General Preface</hi> to things lately written for the Service of the Church and Kingdom of <hi>England;</hi> but upon farther Conſideration is thought, fit to be pub<g ref="char:EOLhyphen"/>liſhed alone: <hi>as followeth.</hi>
+            </p>
+            <pb n="3" facs="tcp:38987:2"/>
+            <p>I COME now to the other part of our Caſe, concerning CIVIL RIGHT: of which I have already declar'd my Thoughts, as I found, from firſt to laſt, as far as was proper for me to do. The Paper intituled, <hi>The Fidelity of a Loyal Subject,</hi> was ſent to King <hi>William</hi> 10 June, before he went into <hi>Holland,</hi> and to divers of the Lords of the Privy Council, and Members of Parliament. And all that part of this Collection, intituled, <hi>A Meſſage of Peace,</hi> was ſent to thoſe Lords, and to the Speaker of the Houſe of Commons, and ſome others, a little before King <hi>William</hi>'s Faſt. That concerning the <hi>Birth of the Prince of</hi> Wales, is part of that, and was alſo ſold alone. And that in the third, intituled, <hi>A Petition and Demand of Right,</hi> &amp;c. after it had been ſent to the Member to whom it was directed, with both our Names at length, and to the Speaker and other Members, was publickly ſold at the <hi>Exchange</hi> and <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> &amp;c.</p>
+            <p>In theſe and the reſt is ſufficient Matter of Fact ſet out, and ſuch as neither was, nor could be denied, and had it been queſtion'd, I was ready to have appear'd, and declar'd upon what <hi>Grounds I writ it.</hi> Taking that therefore for granted, I am to conſider <hi>the Juſtice of our Cauſe,</hi> in reſpect of the <hi>Pre<g ref="char:EOLhyphen"/>tended Prince of</hi> Wales, as he is ſtiled, not only in the Addreſſes of the <hi>Abuſed People,</hi> but in the <hi>Speech of King</hi> William to his laſt Parliament, wherein he abuſed not only Him, but them, and himſelf too; and even in the Declaration of War, ſince his Death. For I meddle not with the Common Cauſe of the Confederates; which whatever it be, I think not much advantaged by that Addition.</p>
+            <p>That <hi>King James</hi> the Second was Lawful Succeſſor of King <hi>Charles</hi> the Second, and <hi>rightful King</hi> of theſe three Kingdoms and the Territories thereunto belonging, is out of all queſtion with all Men of Sobriety and Conſcience.</p>
+            <p>And that there were thoſe things done by his Authority, which were great <hi>Violations of the Rights of the Subjects,</hi> is like<g ref="char:EOLhyphen"/>wiſe out of all queſtion.</p>
+            <p>But 1ſt. <hi>by whoſe Advice</hi> thoſe things were done, which ought in the firſt place to have been inquired into, (whether by Po<g ref="char:EOLhyphen"/>piſh Counſels, or Proteſtant Treachery, and Conſpiracy with Fugitive Rebels and Traitors) was never yet made any queſtion; no ſmall Argument that Truth was not their Intereſt, who might have done it, if they pleaſed.</p>
+            <pb n="4" facs="tcp:38987:3"/>
+            <p>And 2dly, that by the Known Laws of this Land, <hi>the King</hi> in ſuch Caſes <hi>is not to be queſtoned, but his Evil Counſellors,</hi> by Com<g ref="char:EOLhyphen"/>plaint and Remonſtrance to him: eſpecially not till he refuſe to do Right, maintain and protect them againſt Right, and ſo make himſelf a party with them againſt the true Conſtitution of the Government, is, if not aſſerted, yet admitted and ſup<g ref="char:EOLhyphen"/>poſed, in all the Proceedings in the late Civil War, while any thing of Law was regarded. But the quite contrary in this Caſe hath been done; the King driven and excluded from the Throne, and the Traytors received and harbour'd.</p>
+            <p>And 3dly, Whether <hi>to take up Arms againſt their King</hi> upon any pretence whatever, tho' doubtful with many, yet with many was out of all doubt, that it was unlawful, by reaſon of the Publick Declarations of the Nobility, Gentry, Citizens, Bur<g ref="char:EOLhyphen"/>geſſes, Civil Officers, and of the Loyal Clergy, according to three ſeveral Acts of Parliament: But to do it upon Pretence grounded upon Treachery, is without all doubt, not only un<g ref="char:EOLhyphen"/>lawful, but abominable with all Men, who have any ſenſe of Conſcience or Religion, of Honour, Juſtice, or of Common Honeſty. And yet hath this been done in this Caſe.</p>
+            <p n="4">4thly, Of <hi>the Matters alledg'd againſt King</hi> James, there was one, concerning the <hi>Birth of the Prince of</hi> Wales, which had it been true, had been ſufficient to have juſtified all that was done againſt him: but being falſe, and not only falſe, but a contriv'd Calumny, is as great a Demonſtration of the Wickedneſs of them.</p>
+            <p n="5">5thly, And this, having been alledged by <hi>the Prince of</hi> Orange <hi>in his Declaration,</hi> and referred to the Examination of a Free Parliament; the queſtion in effect was, <hi>Whether King</hi> James <hi>or himſelf was the Impostor?</hi> And his neglect of that Examination, when it was in his Power, notwithſtanding all the Occaſions for it, was a manifeſt Injury to King <hi>James,</hi> and Evidence of it againſt himſelf.</p>
+            <p n="6">6thly, All theſe Injuries to King <hi>James,</hi> by Treacherous Coun<g ref="char:EOLhyphen"/>ſels, by ſuch abominable Lies and Calumnies, by driving him out of his Kingdom upon ſuch falſe and wicked Pretences, and refuſal of Juſtice in all theſe particulars, all contrary to the Fidelity and Allegiance ſworn to him, and his Lawful Succeſſors, was the Introduction to that which Crown'd all; that which came in courſe to be read for the firſt Leſſon, while I was writing this, <hi>Hoſ.</hi> 8. Where God complains, <hi>Iſrael hath caſt off
+<pb n="5" facs="tcp:38987:3"/>the thing that is good; the Enemy ſhall purſue him: They have ſet up Kings, but not by me; they have made Princes, and I knew it not:</hi> I mean <hi>the Act of Setlement.</hi>
+            </p>
+            <p n="7">7thly, This Act is not only <hi>an Addition</hi> to all the precedent Injuries, but a <hi>farther Proof and Confirmation</hi> of the Iniquity of them: For the Convention being <hi>Conſcious,</hi> that all the <hi>other Pretences</hi> were as <hi>inſufficient in Law,</hi> as <hi>deficient in Truth,</hi> were forc'd to ſtrain their Wits, as well as their Conſciences, to find out ſome other more plauſible; which at laſt was a very lame one in the bottom, only made more paſſable with the abuſed prejudic'd People, by <hi>new Adopted Terms</hi> of <hi>Abdication</hi> and <hi>Vacancy of the Throne.</hi> For <hi>Abdication</hi> is a voluntary Act, without intent to reaſſume, or return to what is forſaken. But King <hi>James,</hi> from the Experience he had of the Uſage of his Father, and of the Attempts againſt his Brother and him<g ref="char:EOLhyphen"/>ſelf, by deſperate Factions, had juſt Cauſe of Fear; and beſides, was perſwaded by the Prince, under Pretence of Kindneſs, to withdraw from the Fury of the People; and did actually re<g ref="char:EOLhyphen"/>turn again as ſoon, and as far as he could.</p>
+            <p n="8">8thly, To all theſe Injuries done to King <hi>James,</hi> that is no ſmall <hi>Addition,</hi> which is done <hi>to his Son,</hi> to Exclude him, to Attaint him, and to Abjure him; and for no other Cauſe or Pretence, but his Education in a Religion different from this, which I have ſhewed to be ſo faulty before; and which brings forth ſuch Fruits, as I am conſidering now; and which is ſo little regarded by ſuch as make it their Pretence, as to be uſed by them for no other purpoſe. But as this is a great Addition to all theſe; ſo all theſe are to be taken into the Account of the <hi>Injuries done to the Son,</hi> as the Ground of them.</p>
+            <p>And now by all this, I think it very apparent to all, who have any ſenſe of Juſtice or Honeſty in them, how monſtrouſ<g ref="char:EOLhyphen"/>ly <hi>unjuſt</hi> a Cauſe this is <hi>among Men:</hi> but to underſtand more fully how <hi>wicked</hi> it is <hi>in the Sight of God,</hi> there is more yet to be conſidered.</p>
+            <p>It was not King <hi>James</hi> alone, and his Son, and Family, who were greatly injur'd by theſe things, but alſo <hi>the People</hi> of this Nation, and of all the three Kingdoms, tho' this moſt of any. Which, tho' it may ſeem ſtrange, by reaſon of their free Con<g ref="char:EOLhyphen"/>currence, yet it is never the leſs true, if they were abuſed and impoſed upon in it.</p>
+            <pb n="6" facs="tcp:38987:4"/>
+            <p>
+               <hi>Two things</hi> there were, which were much cry'd up, and <hi>by which the People were moſt incenſed against the King;</hi> One, That he and the Queen had agreed to impoſe a Suppoſititious Child upon the Nation: The other, That the Biſhops were ſent to the <hi>Tower</hi> for that purpoſe, that the Buſineſs might be the better manag'd in their Abſence. But the firſt was not only falſe, but a moſt Devilliſh contriv'd Calumny, as I have ſufficiently ſhewed in my Papers, and could ſay more if there was occaſion; and that it was contriv'd contrary to certain Knowledge. And the other not only an improbable Suggeſtion; for, what could their Ab<g ref="char:EOLhyphen"/>ſence avail, when ſo many others were preſent? But the very depth of Satan, and a treacherous Practice, whereby the poor King himſelf was impoſed upon contrary to his own Mind, that they might not be preſent at the Labour, and Witneſſes to it, and that the Belief of that Lie and Calumny might be thereby confirm'd. So that by both theſe they were moſt wickedly abuſed and impoſed upon; and the <hi>Engliſh</hi> being naturally a plain down-right reſolute People, and abomina<g ref="char:EOLhyphen"/>ting Tricks and Cheats, but eſpecially to be ſo abuſed as they were made believe, this made them ſo ready to receive him as their Deliverer, who was in Truth the Principal in the Abuſe and Impoſture put upon them. Their Concurrence therefore in fact, in what they were themſelves abuſed, is not to be im<g ref="char:EOLhyphen"/>puted to them as their reaſonable and deliberate Act.</p>
+            <p>But the Buſineſs was undoubtedly manag'd by <hi>Conſpiracy</hi> be<g ref="char:EOLhyphen"/>tween ſome Fugitives at the <hi>Hague,</hi> upon <hi>Monmouth</hi>'s Defeat (who 'tis ſaid was betray'd into that Undertaking, by ſuch as made their Advantage of it) and their Treacherous Correſpon<g ref="char:EOLhyphen"/>dents in King <hi>James</hi>'s Court: with whom many others of like Looſe Principles ſtruck in afterward for Preferment, and com<g ref="char:EOLhyphen"/>poſed <hi>the deſperate wicked Faction,</hi> which being hardened with the Succeſs of ſo great Wickedneſs, caſt off all regard to Reli<g ref="char:EOLhyphen"/>gion, Morality, and Common Honeſty, and have run things to ſuch Madneſs and Extravagances. But their great <hi>Support</hi> being now remov'd, 'tis to be hop'd we may come at laſt to more <hi>Sober Counſels:</hi> and that all theſe Injuries ſhall be righted as ſoon as may be. For, beſides the Indignities done to the Royal Family, thoſe to the People are very conſiderable. For they have been <hi>injured</hi> in their <hi>Honour and Reputation,</hi> by the Abuſes put upon them; in their <hi>Religion,</hi> by the Scandals
+<pb n="7" facs="tcp:38987:4"/>brought upon it; in their <hi>Eſtates</hi> by the vaſt Expenſes they have been at, and all conſum'd in foreign Parts, to the advantage of our pretended Friends, but ſecret Corrivals, and in the vaſt Debts contracted; in their <hi>Peace</hi> by an Unjuſt and Wicked Occaſion of an endleſs War intailed upon theſe Nations; and in their <hi>Souls</hi> by manifold Sins and Wickedneſs, and ſtrong Temptations to greater; as if the Spirits of <hi>Achitophel</hi> and <hi>Ba<g ref="char:EOLhyphen"/>laam</hi> were come amongſt us. By the Miſchiefs to the Nation, as well as to the Royal Family, may be perceiv'd what Intereſt has been promoted, and what Vipers we have had in our Bowels.</p>
+            <p>But ſince it hath pleaſed God to give us an <hi>Engliſh Heart</hi> again upon the Throne, and one ſo obliged by the <hi>Laws of Nature, of God, and of the Land,</hi> and ſenſible, I hope, of theſe great Obligations, we may hope to ſee the <hi>true Engliſh Spirit</hi> again reviv'd in the People, with a juſt Reſentment of the Abuſes, and ſome Reparation for the Diſhonour and Injuries done unto them: and to learn by dear bought <hi>Experience</hi> to beware of ſuch <hi>Factions</hi> at home, and of <hi>Foreigners</hi> abroad; to value thoſe, who are true to the <hi>Principles</hi> they honeſtly own; and beware of thoſe, who have either none at all, or ſuch as are uncertain what they are, or certainly very bad: and to ſee Truth and Righteouſneſs again reſtored amongſt us, after ſuch Experience of the unhappy Conſequences of Wicked Policies, and the in<g ref="char:EOLhyphen"/>direct Practices of Lies, Calumnies, and all Iniquity.</p>
+            <p>And our <hi>Hopes</hi> may be not a little <hi>encouraged</hi> by the <hi>Eaſineſs of our Work,</hi> if it be duly conſider'd: For as <hi>the ways of Falſhood, Treachery, and Iniquity,</hi> are always not only unhappy in the End, but indirect, rugged and dangerous in the paſſage; ſo the Ways of Truth and Righteouſneſs are not only happy in the End, but direct, plain, eaſy, and pleaſant Paths. We need nothing but true <hi>Engliſh Spirits,</hi> among the Commons, and true <hi>Chriſtian Spirits</hi> among the Clergy, and a Religious Obſervance of the <hi>Coronation Oath</hi> upon the Throne, and that it be indeed a Throne of Righteouſneſs, and not of Iniquity.</p>
+            <p>But it muſt be remember'd that the <hi>True Engliſh Spirit</hi> is not only a Spirit of Honeſty and Generoſity, but a Spirit of true and ſincere Religion at the bottom: And if we have ſuch a Spirit return again into St. <hi>Stephen's Chappel,</hi> we ſhall not only have <hi>the Honour of the Nation</hi> reſtored by eminent Demonſtrations that it was only a prevalent Faction, by which all the Diſhonour
+<pb n="8" facs="tcp:38987:5"/>and Miſchiefs have been brought upon us; but the <hi>Honour of God</hi> in the firſt place reſtored in Truth and Sincerity in that Sacred place, by proper Demonſtrations that it was not only a Prevalent but an Impious and Hypocritical Faction that did it. Of which we have had ſufficient Divine Admonitions in the Anſwers to thoſe two <hi>Formal Fasts;</hi> that upon the Addreſs of that ſhort-liv'd Parliament, and that upon the Princely Conſideration, and Religious Diſpoſition of King <hi>William,</hi> if they be well conſider'd.</p>
+            <p>And it muſt be remember'd alſo, that the <hi>true Christian Spirit</hi> is a true <hi>Engliſh</hi> Spirit, in the perfection of all its moſt excellent Qualities. And therefore unleſs the <hi>Cranmerian, Tem<g ref="char:EOLhyphen"/>porizing, Treacherous Spirit</hi> be caſt out of the <hi>Jeruſalem</hi> Cham<g ref="char:EOLhyphen"/>ber, or at leaſt out of <hi>Hen.</hi> 7. Chapel, the caſting out the Factious, Impious, and Hypocritical Spirit, out of the Com<g ref="char:EOLhyphen"/>mons alone, cannot bring our Work to its due Perfection: and if we have both thoſe true Spirits in Unity upon the Throne, we ſhall ſee thoſe <hi>Curſed Roots of Perjury and all Wickedneſs</hi> planted in this Nation by <hi>Hen.</hi> 8. and his Daughter, utterly exter<g ref="char:EOLhyphen"/>pated, and the <hi>kindly Plants of Truth, Righteouſneſs, and true Piety,</hi> abounding in the pleaſant Fruits of Peace and Happi<g ref="char:EOLhyphen"/>neſs, revived and flouriſh again amongſt us: Which is the on<g ref="char:EOLhyphen"/>ly aim of all my Labours, which have been oppoſed with ſo much Wickedneſs and Madneſs, notwithſtanding the plain honeſt Deſign, and Sound effectual Expedients propoſed in them.</p>
+            <p>
+               <hi>THESE things having been laid before</hi> the Lower Houſe of Convocation, <hi>and</hi> the Houſe of Commons, <hi>it is fit they ſhould be conſider'd by</hi> the Clergy <hi>of the ſeveral Dioceſſes and <g ref="char:V">Ʋ</g>niverſities, and by</hi> the Commons <hi>of the ſeveral Counties, Cities and Burroughs before thoſe Aſſemblies meet again, or as ſoon as may be: And none but</hi> Factious Spirits <hi>can be againſt it.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
